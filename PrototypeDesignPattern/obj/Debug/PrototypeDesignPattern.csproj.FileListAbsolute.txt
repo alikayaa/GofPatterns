@@ -1,0 +1,30 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Core.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Entity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Core.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Entity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Core.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Entity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Core.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\bin\Debug\Prototype.Entity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\bin\Debug\Prototype.Core.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\bin\Debug\Prototype.Entity.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\bin\Debug\Prototype.Core.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\bin\Debug\Prototype.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb

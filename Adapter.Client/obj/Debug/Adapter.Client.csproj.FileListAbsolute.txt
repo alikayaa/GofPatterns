@@ -1,0 +1,30 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.Client.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.Client.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.OurLogSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.3rdPartyLogSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.OurLogSystem.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.3rdPartyLogSystem.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\obj\Debug\Adapter.Client.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\obj\Debug\Adapter.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\obj\Debug\Adapter.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.Client.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.OurLogSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.3rdPartyLogSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.OurLogSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\bin\Debug\Adapter.3rdPartyLogSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\obj\Debug\Adapter.Client.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\obj\Debug\Adapter.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.Client\obj\Debug\Adapter.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\bin\Debug\Adapter.Client.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\bin\Debug\Adapter.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\bin\Debug\Adapter.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\bin\Debug\Adapter.OurLogSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\bin\Debug\Adapter.3rdPartyLogSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\bin\Debug\Adapter.OurLogSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\bin\Debug\Adapter.3rdPartyLogSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\obj\Debug\Adapter.Client.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\obj\Debug\Adapter.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.Client\obj\Debug\Adapter.Client.pdb

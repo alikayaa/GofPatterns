@@ -1,0 +1,21 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Entity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Entity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Core.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Core.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\obj\Debug\Prototype.Entity.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\obj\Debug\Prototype.Entity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\obj\Debug\Prototype.Entity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Entity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Entity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Core.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\bin\Debug\Prototype.Core.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\obj\Debug\Prototype.Entity.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\obj\Debug\Prototype.Entity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Entity\obj\Debug\Prototype.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Entity\bin\Debug\Prototype.Entity.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Entity\bin\Debug\Prototype.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Entity\bin\Debug\Prototype.Core.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Entity\bin\Debug\Prototype.Core.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Entity\obj\Debug\Prototype.Entity.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Entity\obj\Debug\Prototype.Entity.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Entity\obj\Debug\Prototype.Entity.pdb

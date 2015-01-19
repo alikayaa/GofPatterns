@@ -1,0 +1,13 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator.Pattern\bin\Debug\Mediator.Pattern.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator.Pattern\bin\Debug\Mediator.Pattern.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator.Pattern\obj\Debug\Mediator.Pattern.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator.Pattern\obj\Debug\Mediator.Pattern.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator.Pattern\obj\Debug\Mediator.Pattern.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.Pattern\bin\Debug\Mediator.Pattern.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.Pattern\bin\Debug\Mediator.Pattern.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.Pattern\obj\Debug\Mediator.Pattern.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.Pattern\obj\Debug\Mediator.Pattern.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.Pattern\bin\Debug\Mediator.Pattern.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.Pattern\bin\Debug\Mediator.Pattern.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.Pattern\obj\Debug\Mediator.Pattern.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.Pattern\obj\Debug\Mediator.Pattern.pdb

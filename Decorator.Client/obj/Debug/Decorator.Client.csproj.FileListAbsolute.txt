@@ -1,0 +1,24 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.Client.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.Client.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.DbSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.DbSystem.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\obj\Debug\Decorator.Client.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\obj\Debug\Decorator.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\obj\Debug\Decorator.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.Client.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.DbSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\bin\Debug\Decorator.DbSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\obj\Debug\Decorator.Client.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\obj\Debug\Decorator.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.Client\obj\Debug\Decorator.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\bin\Debug\Decorator.Client.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\bin\Debug\Decorator.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\bin\Debug\Decorator.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\bin\Debug\Decorator.DbSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\bin\Debug\Decorator.DbSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\obj\Debug\Decorator.Client.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\obj\Debug\Decorator.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.Client\obj\Debug\Decorator.Client.pdb

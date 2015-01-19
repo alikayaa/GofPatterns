@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Facade.Manager.SearchManager">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAIAAAAAgAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="convertToClassWorker" />
+      <Field Name="dbWorker" />
+      <Field Name="validationWorker" />
+      <Field Name="xmlWorker" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Worker.ConvertToClassWorker">
+    <Position X="1" Y="3.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Facade.Worker.DBWorker">
+    <Position X="9.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Worker.ValidationWorker">
+    <Position X="6.5" Y="3.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Worker.XMLWorker">
+    <Position X="3.25" Y="3.75" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

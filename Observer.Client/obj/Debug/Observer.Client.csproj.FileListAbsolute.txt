@@ -1,0 +1,32 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.Client.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.Client.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.GSMOperator.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.GSMOperator.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\obj\Debug\Observer.Client.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\obj\Debug\Observer.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\obj\Debug\Observer.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.Client.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.GSMOperator.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\bin\Debug\Observer.GSMOperator.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\obj\Debug\Observer.Client.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\obj\Debug\Observer.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.Client\obj\Debug\Observer.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.Client.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.GSMOperator.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.GSMOperator.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\obj\Debug\Observer.Client.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\obj\Debug\Observer.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\obj\Debug\Observer.Client.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.Client.exe.config
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\obj\Debug\Observer.Client.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\obj\Debug\Observer.Client.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.Client.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.Client.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.GSMOperator.dll
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\bin\Debug\Observer.GSMOperator.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.Client\obj\Debug\Observer.Client.csprojResolveAssemblyReference.cache

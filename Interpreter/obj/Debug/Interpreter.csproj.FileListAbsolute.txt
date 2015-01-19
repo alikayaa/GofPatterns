@@ -1,0 +1,35 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Interpreter\Interpreter\bin\Debug\ScreenInputData.xml
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\ScreenInputData.xml
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\ScreenInputData.xml
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Interpreter\obj\Debug\Interpreter.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\bin\Debug\ScreenInputData.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\bin\Debug\Interpreter.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\bin\Debug\Interpreter.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\bin\Debug\Interpreter.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\obj\Debug\Interpreter.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Interpreter\obj\Debug\Interpreter.pdb

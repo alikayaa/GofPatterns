@@ -1,0 +1,19 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Proxy\Proxy\obj\Debug\Proxy.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Proxy\obj\Debug\Proxy.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Proxy\obj\Debug\Proxy.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Proxy\obj\Debug\Proxy.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Proxy\obj\Debug\Proxy.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Proxy\obj\Debug\Proxy.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Proxy\obj\Debug\Proxy.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Proxy\bin\Debug\Proxy.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Proxy\bin\Debug\Proxy.pdb
+C:\Users\KAYA\Downloads\kodlar\kodlar\GOF Tasarım Desenleri\Proxy\obj\Debug\Proxy.exe
+C:\Users\KAYA\Downloads\kodlar\kodlar\GOF Tasarım Desenleri\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,16 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Template Method\Template Method\bin\Debug\Template Method.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Template Method\Template Method\bin\Debug\Template Method.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Template Method\Template Method\bin\Debug\Template Method.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Template Method\Template Method\obj\Debug\Template Method.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Template Method\Template Method\obj\Debug\Template Method.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Template Method\Template Method\obj\Debug\Template Method.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Template Method\bin\Debug\Template Method.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Template Method\bin\Debug\Template Method.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Template Method\bin\Debug\Template Method.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Template Method\obj\Debug\Template Method.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Template Method\obj\Debug\Template Method.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Template Method\bin\Debug\Template Method.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Template Method\bin\Debug\Template Method.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Template Method\bin\Debug\Template Method.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Template Method\obj\Debug\Template Method.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Template Method\obj\Debug\Template Method.pdb

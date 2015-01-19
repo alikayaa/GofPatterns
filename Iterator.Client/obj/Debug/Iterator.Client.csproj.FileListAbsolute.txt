@@ -1,0 +1,24 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Client.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Client.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Datetime.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Datetime.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\obj\Debug\Iterator.Client.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\obj\Debug\Iterator.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\obj\Debug\Iterator.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Client.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Datetime.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\bin\Debug\Iterator.Datetime.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\obj\Debug\Iterator.Client.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\obj\Debug\Iterator.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Client\obj\Debug\Iterator.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\bin\Debug\Iterator.Client.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\bin\Debug\Iterator.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\bin\Debug\Iterator.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\bin\Debug\Iterator.Datetime.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\bin\Debug\Iterator.Datetime.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\obj\Debug\Iterator.Client.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\obj\Debug\Iterator.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Client\obj\Debug\Iterator.Client.pdb

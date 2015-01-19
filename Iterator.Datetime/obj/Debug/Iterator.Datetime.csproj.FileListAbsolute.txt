@@ -1,0 +1,12 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\bin\Debug\Iterator.Datetime.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\bin\Debug\Iterator.Datetime.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\obj\Debug\Iterator.Datetime.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\obj\Debug\Iterator.Datetime.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\bin\Debug\Iterator.Datetime.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\bin\Debug\Iterator.Datetime.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\obj\Debug\Iterator.Datetime.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Iterator.Datetime\obj\Debug\Iterator.Datetime.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Datetime\bin\Debug\Iterator.Datetime.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Datetime\bin\Debug\Iterator.Datetime.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Datetime\obj\Debug\Iterator.Datetime.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Iterator.Datetime\obj\Debug\Iterator.Datetime.pdb

@@ -1,0 +1,18 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.dll
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\bin\Debug\Observer.GSMOperator.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.csprojResolveAssemblyReference.cache
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.dll
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Observer.GSMOperator\obj\Debug\Observer.GSMOperator.csprojResolveAssemblyReference.cache

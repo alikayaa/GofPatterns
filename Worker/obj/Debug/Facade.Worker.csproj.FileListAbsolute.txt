@@ -1,0 +1,21 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Worker.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Worker.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Entity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Entity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\obj\Debug\Facade.Worker.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\obj\Debug\Facade.Worker.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\obj\Debug\Facade.Worker.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Worker.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Worker.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Entity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\bin\Debug\Facade.Entity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\obj\Debug\Facade.Worker.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\obj\Debug\Facade.Worker.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Worker\obj\Debug\Facade.Worker.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Worker\bin\Debug\Facade.Worker.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Worker\bin\Debug\Facade.Worker.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Worker\bin\Debug\Facade.Entity.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Worker\bin\Debug\Facade.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Worker\obj\Debug\Facade.Worker.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Worker\obj\Debug\Facade.Worker.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Worker\obj\Debug\Facade.Worker.pdb

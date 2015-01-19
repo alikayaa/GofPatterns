@@ -1,0 +1,13 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\bin\Debug\Strategy.Sorting.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\bin\Debug\Strategy.Sorting.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\obj\Debug\Strategy.Sorting.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\obj\Debug\Strategy.Sorting.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\bin\Debug\Strategy.Sorting.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\bin\Debug\Strategy.Sorting.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\obj\Debug\Strategy.Sorting.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Strategy.Sorting\obj\Debug\Strategy.Sorting.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Strategy.Sorting\bin\Debug\Strategy.Sorting.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Strategy.Sorting\bin\Debug\Strategy.Sorting.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Strategy.Sorting\obj\Debug\Strategy.Sorting.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Strategy.Sorting\obj\Debug\Strategy.Sorting.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Strategy.Sorting\obj\Debug\Strategy.Sorting.pdb

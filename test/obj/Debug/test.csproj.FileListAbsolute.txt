@@ -1,0 +1,16 @@
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\test.exe.config
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\test.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\test.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\12122014EgitimKodlar.dll
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\12122014EgitimKodlar.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\obj\Debug\test.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\obj\Debug\test.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\test.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\test.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\test.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\12122014EgitimKodlar.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\bin\Debug\12122014EgitimKodlar.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\obj\Debug\test.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\test\obj\Debug\test.pdb

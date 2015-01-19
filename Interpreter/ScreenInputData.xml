@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Form Title="Otomatik Oluşturulan Ekran" Name="FormName" Width="350" Height="200">
+  <Controls>
+    <Control Type="Label" Name="lblUserName" Text="Kullanıcı Adı" Margin-Left="10" Margin-Top="10"/>
+    <Control Type="Textbox" Name="txtUserName" Margin-Top="10" Margin-Left="150"/>
+    <Control Type="Label" Name="lblUserPass" Text="Şifre" Margin-Left="10" Margin-Top="40"/>
+    <Control Type="Password" Name="UserPass" Margin-Top="40" Margin-Left="150"/>
+    <Control Type="Button" Name="btnLogin" Text="Giriş Yap" Margin-Top="70" Margin-Left="10" Width="75" Height="25"/>
+  </Controls>
+</Form>

@@ -1,0 +1,45 @@
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.ChatRoom\bin\Mediator.ChatRoom.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.ChatRoom\bin\Mediator.ChatRoom.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.ChatRoom\bin\Microsoft.Web.Infrastructure.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.ChatRoom\bin\Microsoft.Web.Infrastructure.xml
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.ChatRoom\obj\Debug\Mediator.ChatRoom.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.ChatRoom\obj\Debug\Mediator.ChatRoom.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator.ChatRoom\obj\Debug\Mediator.ChatRoom.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Mediator.ChatRoom.dll.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Mediator.ChatRoom.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Mediator.ChatRoom.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Antlr3.Runtime.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\AspNet.ScriptManager.jQuery.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.AspNet.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.Core.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OAuth.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OpenId.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\EntityFramework.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.ScriptManager.WebForms.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.Web.Infrastructure.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\System.Web.Optimization.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\System.Web.Providers.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\WebGrease.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Org.Mentalis.Security.Cryptography.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Mono.Math.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\EntityFramework.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.Core.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OAuth.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OpenId.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\DotNetOpenAuth.AspNet.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Org.Mentalis.Security.Cryptography.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\bin\Mono.Math.xml
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\obj\Debug\Mediator.ChatRoom.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\obj\Debug\Mediator.ChatRoom.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator.ChatRoom\obj\Debug\Mediator.ChatRoom.pdb

@@ -1,0 +1,27 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Manager.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Manager.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Entity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Worker.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Entity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Worker.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\obj\Debug\Facade.Manager.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\obj\Debug\Facade.Manager.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\obj\Debug\Facade.Manager.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Manager.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Manager.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Entity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Worker.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Entity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\bin\Debug\Facade.Worker.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\obj\Debug\Facade.Manager.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\obj\Debug\Facade.Manager.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Manager\obj\Debug\Facade.Manager.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\bin\Debug\Facade.Manager.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\bin\Debug\Facade.Manager.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\bin\Debug\Facade.Entity.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\bin\Debug\Facade.Worker.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\bin\Debug\Facade.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\bin\Debug\Facade.Worker.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\obj\Debug\Facade.Manager.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\obj\Debug\Facade.Manager.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Manager\obj\Debug\Facade.Manager.pdb

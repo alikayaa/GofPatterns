@@ -1,0 +1,39 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\bin\Debug\Mediator.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\bin\Debug\Mediator.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.contactForm.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.Chat.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.csproj.GenerateResource.Cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\bin\Debug\Mediator.Pattern.dll
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\bin\Debug\Mediator.Pattern.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Mediator\Mediator\obj\Debug\Mediator.Login.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.contactForm.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.Chat.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.Login.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.csproj.GenerateResource.Cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\bin\Debug\Mediator.Pattern.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\bin\Debug\Mediator.Pattern.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Mediator\obj\Debug\Mediator.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\bin\Debug\Mediator.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\bin\Debug\Mediator.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\bin\Debug\Mediator.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\bin\Debug\Mediator.Pattern.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\bin\Debug\Mediator.Pattern.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.contactForm.resources
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.Chat.resources
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.Login.resources
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,16 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\FlyWeight\bin\Debug\FlyWeight.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\FlyWeight\obj\Debug\FlyWeight.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\FlyWeight\obj\Debug\FlyWeight.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\FlyWeight\bin\Debug\FlyWeight.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\FlyWeight\bin\Debug\FlyWeight.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\FlyWeight\bin\Debug\FlyWeight.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\FlyWeight\obj\Debug\FlyWeight.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\FlyWeight\obj\Debug\FlyWeight.pdb

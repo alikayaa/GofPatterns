@@ -1,0 +1,22 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\obj\Debug\AbstractFactory.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\bin\Debug\AbstractFactory.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\bin\Debug\AbstractFactory.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\obj\Debug\AbstractFactory.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\AbstractFactory\obj\Debug\AbstractFactory.pdb

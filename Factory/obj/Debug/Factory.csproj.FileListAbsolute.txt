@@ -1,0 +1,16 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Factory\Factory\obj\Debug\Factory.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Factory\bin\Debug\Factory.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Factory\bin\Debug\Factory.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Factory\bin\Debug\Factory.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Factory\obj\Debug\Factory.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Factory\obj\Debug\Factory.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Factory\bin\Debug\Factory.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Factory\bin\Debug\Factory.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Factory\bin\Debug\Factory.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Factory\obj\Debug\Factory.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Factory\obj\Debug\Factory.pdb

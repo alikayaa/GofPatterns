@@ -1,0 +1,14 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\bin\Debug\Facade.Entity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\bin\Debug\Facade.Entity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\obj\Debug\Facade.Entity.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\obj\Debug\Facade.Entity.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\obj\Debug\Facade.Entity.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\bin\Debug\Facade.Entity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\bin\Debug\Facade.Entity.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\obj\Debug\Facade.Entity.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Facade.Entity\obj\Debug\Facade.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Entity\bin\Debug\Facade.Entity.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Entity\bin\Debug\Facade.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Entity\obj\Debug\Facade.Entity.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Entity\obj\Debug\Facade.Entity.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Facade.Entity\obj\Debug\Facade.Entity.csprojResolveAssemblyReference.cache

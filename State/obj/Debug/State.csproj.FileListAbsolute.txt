@@ -1,0 +1,18 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\State\State\bin\Debug\State.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\State\bin\Debug\State.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\State\bin\Debug\State.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\State\bin\Debug\State.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\State\obj\Debug\State.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\State\obj\Debug\State.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\bin\Debug\State.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\bin\Debug\State.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\bin\Debug\State.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\obj\Debug\State.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\obj\Debug\State.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\bin\Debug\State.exe.config
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\bin\Debug\State.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\bin\Debug\State.pdb
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\obj\Debug\State.exe
+E:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\obj\Debug\State.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\State\obj\Debug\State.csprojResolveAssemblyReference.cache

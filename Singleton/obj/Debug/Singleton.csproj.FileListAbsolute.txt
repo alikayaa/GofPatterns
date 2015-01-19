@@ -1,0 +1,16 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Singleton\obj\Debug\Singleton.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Singleton\bin\Debug\Singleton.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Singleton\bin\Debug\Singleton.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Singleton\bin\Debug\Singleton.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Singleton\obj\Debug\Singleton.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Singleton\obj\Debug\Singleton.pdb

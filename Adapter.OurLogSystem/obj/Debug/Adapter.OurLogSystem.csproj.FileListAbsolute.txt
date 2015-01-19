@@ -1,0 +1,21 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.OurLogSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.OurLogSystem.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.3rdPartyLogSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.3rdPartyLogSystem.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.OurLogSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.OurLogSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.3rdPartyLogSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\bin\Debug\Adapter.3rdPartyLogSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.OurLogSystem\bin\Debug\Adapter.OurLogSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.OurLogSystem\bin\Debug\Adapter.OurLogSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.OurLogSystem\bin\Debug\Adapter.3rdPartyLogSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.OurLogSystem\bin\Debug\Adapter.3rdPartyLogSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Adapter.OurLogSystem\obj\Debug\Adapter.OurLogSystem.pdb

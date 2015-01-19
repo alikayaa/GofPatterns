@@ -1,0 +1,16 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Memento\Memento\bin\Debug\Memento.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Memento\Memento\bin\Debug\Memento.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Memento\Memento\bin\Debug\Memento.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Memento\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Memento\Memento\obj\Debug\Memento.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Memento\Memento\obj\Debug\Memento.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Memento\bin\Debug\Memento.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Memento\obj\Debug\Memento.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Memento\obj\Debug\Memento.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Memento\bin\Debug\Memento.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Memento\bin\Debug\Memento.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Memento\bin\Debug\Memento.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Memento\obj\Debug\Memento.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Memento\obj\Debug\Memento.pdb

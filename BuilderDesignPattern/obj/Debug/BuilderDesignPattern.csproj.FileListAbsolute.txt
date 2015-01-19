@@ -1,0 +1,21 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+C:\Users\EnginBulut\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb

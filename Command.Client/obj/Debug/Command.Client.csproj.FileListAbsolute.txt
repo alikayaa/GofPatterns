@@ -1,0 +1,24 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.Client.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.Client.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.DisabledEnabled.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.DisabledEnabled.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\obj\Debug\Command.Client.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\obj\Debug\Command.Client.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\obj\Debug\Command.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.Client.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.Client.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.DisabledEnabled.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\bin\Debug\Command.DisabledEnabled.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\obj\Debug\Command.Client.csprojResolveAssemblyReference.cache
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\obj\Debug\Command.Client.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Command.Client\obj\Debug\Command.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\bin\Debug\Command.Client.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\bin\Debug\Command.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\bin\Debug\Command.Client.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\bin\Debug\Command.DisabledEnabled.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\bin\Debug\Command.DisabledEnabled.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\obj\Debug\Command.Client.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\obj\Debug\Command.Client.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Command.Client\obj\Debug\Command.Client.pdb

@@ -1,0 +1,16 @@
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\KAYA\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 4\Patterns\Bridge\Bridge\obj\Debug\Bridge.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Bridge\obj\Debug\Bridge.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Bridge\bin\Debug\Bridge.exe.config
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Bridge\bin\Debug\Bridge.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Bridge\bin\Debug\Bridge.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Bridge\obj\Debug\Bridge.exe
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Bridge\obj\Debug\Bridge.pdb

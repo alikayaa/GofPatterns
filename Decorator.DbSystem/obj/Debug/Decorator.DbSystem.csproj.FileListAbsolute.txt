@@ -1,0 +1,12 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\bin\Debug\Decorator.DbSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\bin\Debug\Decorator.DbSystem.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\obj\Debug\Decorator.DbSystem.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\obj\Debug\Decorator.DbSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\bin\Debug\Decorator.DbSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\bin\Debug\Decorator.DbSystem.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\obj\Debug\Decorator.DbSystem.dll
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 4\GofDesignPatterns\Decorator.DbSystem\obj\Debug\Decorator.DbSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.DbSystem\bin\Debug\Decorator.DbSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.DbSystem\bin\Debug\Decorator.DbSystem.pdb
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.DbSystem\obj\Debug\Decorator.DbSystem.dll
+G:\tez ile alakalı\kodlar\GOF Tasarım Desenleri\Decorator.DbSystem\obj\Debug\Decorator.DbSystem.pdb

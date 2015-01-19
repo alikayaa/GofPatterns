@@ -1,0 +1,10 @@
+﻿-decorator' u aynısı entity framework kullanılarak yapılacak.
+- gerçekten yetki kontrolü olacak, gerçek log atacak,
+gerçekten web servisine istek atacak....
+'
+
+
+- buffer bellek özelliği eklenecek(100 tane de bir),
+5 saate bir çalıştırsın özelliği eklenecek,
+rollback özelliği eklenecek.
+ -
